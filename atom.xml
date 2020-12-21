@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ipjiang.github.io</id>
+    <title>果汁焗酱油</title>
+    <updated>2020-12-21T06:49:44.806Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ipjiang.github.io"/>
+    <link rel="self" href="https://ipjiang.github.io/atom.xml"/>
+    <subtitle>酱油君私人图书馆</subtitle>
+    <logo>https://ipjiang.github.io/images/avatar.png</logo>
+    <icon>https://ipjiang.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 果汁焗酱油</rights>
+</feed>
